@@ -1,6 +1,6 @@
 # AI Prompts Library
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/arushinofu/llm-roles-collection/blob/main/LICENSE.md)
 [![Markdown](https://img.shields.io/badge/markdown-100000?style=flat&logo=markdown)](https://www.markdownguide.org)
 
 Коллекция инструкций и ролей для настройки больших языковых моделей (LLM) под различные бизнес-задач и не только.
